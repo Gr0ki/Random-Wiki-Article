@@ -1,4 +1,3 @@
-# https://en.wikipedia.org/wiki/Special:Random
 import requests
 import bs4
 
